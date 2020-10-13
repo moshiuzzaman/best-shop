@@ -1,0 +1,13 @@
+.product-image{
+    width: 100%;
+}
+.product-name{
+    font-size:15px;
+}
+p.product-p {
+    margin: -16px 0 -4px 0;
+}
+.product{
+    border-bottom: 1px solid black;
+    padding: 20px 0;
+}
